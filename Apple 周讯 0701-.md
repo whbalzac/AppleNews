@@ -15,5 +15,7 @@
 
 目前 Beta 3 版本中此功能并不被用户所看到。有可能是这种数据传输还没有准备好，或者是用于未来的新设备。
 
+[https://9to5mac.com/2019/07/02/ios-13-beta-3-suggests-new-wired-method-for-transferring-data-between-devices/](https://9to5mac.com/2019/07/02/ios-13-beta-3-suggests-new-wired-method-for-transferring-data-between-devices/)
+
 ***
 
